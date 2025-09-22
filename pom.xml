@@ -37,11 +37,11 @@
         <surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <maven.compiler.parameters>true</maven.compiler.parameters>
-        <spring.version>5.3.23</spring.version>
+        <spring.version>6.2.11</spring.version>
         <assertj-core.version>3.23.1</assertj-core.version>
         <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
         <maven-install-plugin.version>3.0.0-M1</maven-install-plugin.version>
-        <spring-integration-core.version>5.5.14</spring-integration-core.version>
+        <spring-integration-core.version>6.4.7</spring-integration-core.version>
         <json.version>20220924</json.version>
         <error-prone.version>2.15.0</error-prone.version>
         <archunit-junit5.version>1.0.0</archunit-junit5.version>
